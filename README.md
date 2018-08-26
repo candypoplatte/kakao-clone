@@ -14,7 +14,9 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
 - 아직 없습니다.
 
 ## Tips
-
+- Github Pages로 Publish
+    1. `gh-pages` branch 생성
+    2. `user_name`.github.io/`repository_name` 접속
 - Editor(VS Code) 사용 스킬
     - html 태그 작성 단축키 : ex) `html:5`, `tag.class + `, `i.fa.fa-wifi`
 - CSS
