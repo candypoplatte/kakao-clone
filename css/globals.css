@@ -1,4 +1,6 @@
 /* 전체 본문에 쓰이는 Style */
 body {
     font-family: 'Open Sans', sans-serif;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
