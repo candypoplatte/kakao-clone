@@ -4,7 +4,12 @@
 카카오톡 Frontend 클론(Clone) 코딩 프로젝트.  
 HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프로젝트입니다.
 
-## Captures
+## 사용한 기술
+
+- HTML
+- CSS
+
+## 결과물 (Capture)
 
 - 아직 없습니다.
 
