@@ -34,3 +34,4 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
         - [Official Background Position Official Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
         - [Cursor CSS Official Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
         - ['align-self' Official Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self)
+        - [CSS Transitions](http://css3.bradshawenterprises.com/transitions/)
