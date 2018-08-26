@@ -17,7 +17,15 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
 
 - Editor(VS Code) 사용 스킬
     - html 태그 작성 단축키 : ex) `html:5`, `tag.class + `, `i.fa.fa-wifi`
-- CSS : Transition, Transformation, Animation, Media Queries
+- CSS
+    - Advanced CSS
+        - Transition
+            - State : focus, active, hover에서 작동
+            - 전체 Property 적용 시 `transition:all`
+        - Transformation : transition과 함께 사용하면 유용
+        - Animation : `keyFrames`
+            - Stage에 따라 from, to / 0~100%
+        - Media Queries : Device 특성 `@media`
     - Tip Links
         - [{ Box-sizing: Border-box } FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
         - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
