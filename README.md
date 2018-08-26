@@ -21,3 +21,5 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Learn Flexbox while Playing](http://flexboxfroggy.com/#ko)
 - [Box Shadow Official Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+- [Official Background Position Official Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
+- [Cursor CSS Official Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
