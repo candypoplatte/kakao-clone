@@ -1,6 +1,25 @@
 /* 전체 본문에 쓰이는 Style */
 body {
-    font-family: 'Open Sans', sans-serif;
-    padding-top: 60px;
-    padding-bottom: 60px;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+main {
+  animation: .5s bodyPopIn ease-in-out;
+}
+
+@keyframes bodyPopIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+* {
+  box-sizing: border-box;
 }
