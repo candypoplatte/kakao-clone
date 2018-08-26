@@ -15,7 +15,7 @@
 .chats__chat .chat__content img {
   width: 50px;
   border-radius: 50%;
-  /* margin-right: 15px; */
+  margin-right: 15px;
 }
 
 .chats__list .chats__chat a {
