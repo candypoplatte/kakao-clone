@@ -19,3 +19,4 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
     - html 태그 작성 단축키 : ex) `html:5`, `tag.class + `, `i.fa.fa-wifi`
 - Flexbox
 - CSS Selectors & Pseudo Selectors
+- [{ Box-sizing: Border-box } FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
