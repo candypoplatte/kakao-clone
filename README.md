@@ -9,18 +9,20 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
 - HTML
 - CSS
 
-## 결과물 (Capture)
+## 결과물
 
-- 아직 없습니다.
+https://candypoplatte.github.io/kakao-clone/
+
+<img src="https://raw.githubusercontent.com/candypoplatte/kakao-clone/master/output/chats.jpg" width="200">
 
 ## Tips
-- Github Pages로 Publish
+- **Github Pages로 Publish하는 방법**
     1. `gh-pages` branch 생성
     2. `user_name`.github.io/`repository_name` 접속
-- Editor(VS Code) 사용 스킬
+- **Editor(VS Code) 사용 스킬**
     - html 태그 작성 단축키 : ex) `html:5`, `tag.class + `, `i.fa.fa-wifi`
-- CSS
-    - Advanced CSS
+- **CSS 다루는 법**
+    - **Advanced CSS**
         - Transition
             - State : focus, active, hover에서 작동
             - 전체 Property 적용 시 `transition:all`
@@ -28,7 +30,7 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
         - Animation : `keyFrames`
             - Stage에 따라 from, to / 0~100%
         - Media Queries : Device 특성 `@media`
-    - Tip Links
+    - **Tip Links**
         - [{ Box-sizing: Border-box } FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
         - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
         - [Learn Flexbox while Playing](http://flexboxfroggy.com/#ko)
