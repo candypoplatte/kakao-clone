@@ -13,7 +13,11 @@ HTML, CSS만을 활용하여 카카오톡의 UI를 그대로 구현해보는 프
 
 https://candypoplatte.github.io/kakao-clone/
 
+<img src="https://raw.githubusercontent.com/candypoplatte/kakao-clone/master/output/friends.jpg" width="200">
 <img src="https://raw.githubusercontent.com/candypoplatte/kakao-clone/master/output/chats.jpg" width="200">
+<br/>
+<img src="https://raw.githubusercontent.com/candypoplatte/kakao-clone/master/output/find.jpg" width="200">
+<img src="https://raw.githubusercontent.com/candypoplatte/kakao-clone/master/output/more.jpg" width="200">
 
 ## Tips
 - **Github Pages로 Publish하는 방법**
